@@ -7,6 +7,10 @@
 > цифровой сети. Отбивайтесь от вирусов и ботнетов, собирайте дата-ядра, прокачивайте
 > способности и выживайте как можно дольше.
 
+[![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg)](#сборка-из-исходника)
+[![API](https://img.shields.io/badge/API-WinAPI%20%2B%20GDI-00d1b2.svg)](#сборка-из-исходника)
+[![Version](https://img.shields.io/badge/version-1.136-brightgreen.svg)](#)
 
 ---
 
